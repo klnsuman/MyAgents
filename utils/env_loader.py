@@ -25,5 +25,6 @@ def load_environment(env_path: Optional[Path] = None) -> Dict[str, str]:
     return {
         "OPENAI_API_KEY": os.getenv("OPENAI_API_KEY"),
         "ANTHROPIC_API_KEY": os.getenv("ANTHROPIC_API_KEY"),
-        "SERPAPI_API_KEY": os.getenv("SERPAPI_API_KEY")
+        "SERPAPI_API_KEY": os.getenv("SERPAPI_API_KEY"),
+        "TAVILY_API_KEY": os.getenv("TAVILY_API_KEY")
     }
