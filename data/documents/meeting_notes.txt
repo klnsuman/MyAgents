@@ -1,0 +1,29 @@
+
+Engineering Team Meeting - Dec 15, 2024
+========================================
+
+Attendees: Alice (CTO), Bob (Lead), Carol (PM)
+
+Agenda:
+-------
+1. Sprint Review
+2. Q4 Planning
+3. Hiring Updates
+
+Key Decisions:
+--------------
+✓ Approved migration to Kubernetes
+✓ Decided to use PostgreSQL for analytics
+✓ Greenlit AI Assistant v2.0 project
+
+Action Items:
+-------------
+- Alice: Finalize architecture design by Dec 20
+- Bob: Interview 3 senior engineers this week
+- Carol: Draft product roadmap for Q1 2025
+
+Next Steps:
+-----------
+- Deploy beta to 10 pilot customers
+- Gather feedback by Jan 15
+- Public launch Feb 1, 2025

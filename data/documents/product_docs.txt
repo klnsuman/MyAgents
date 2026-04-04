@@ -1,0 +1,30 @@
+
+CloudAI Platform - User Guide
+==============================
+
+Getting Started:
+----------------
+1. Sign up at cloudai.techcorp.com
+2. Create API key in dashboard
+3. Install SDK: pip install cloudai-sdk
+4. Start building!
+
+Features:
+---------
+- Natural Language Processing
+- Computer Vision
+- Speech Recognition
+- Sentiment Analysis
+- Text Generation
+
+Pricing:
+--------
+Starter: $99/month - 10K API calls
+Professional: $499/month - 100K API calls
+Enterprise: Custom pricing
+
+Support:
+--------
+Email: support@techcorp.com
+Phone: 1-800-TECH-AI
+Hours: 24/7
