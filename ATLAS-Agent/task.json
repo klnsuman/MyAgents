@@ -1,0 +1,100 @@
+{
+  "tasks": [
+    {
+      "task_id": "task001",
+      "title": "CS301 Assignment 3 - Binary Search Trees",
+      "course": "CS301",
+      "type": "assignment",
+      "description": "Implement BST operations including insert, delete, search, and traversal",
+      "due": "2024-12-28T23:59:00",
+      "priority": "high",
+      "estimated_hours": 5,
+      "status": "in_progress",
+      "completion_percentage": 40
+    },
+    {
+      "task_id": "task002",
+      "title": "CS350 Project - CNN Implementation",
+      "course": "CS350",
+      "type": "project",
+      "description": "Build a CNN for image classification using PyTorch",
+      "due": "2025-01-05T23:59:00",
+      "priority": "high",
+      "estimated_hours": 15,
+      "status": "not_started",
+      "completion_percentage": 0,
+      "milestones": [
+        {
+          "name": "Data preprocessing",
+          "due": "2024-12-30"
+        },
+        {
+          "name": "Model architecture",
+          "due": "2025-01-02"
+        },
+        {
+          "name": "Training & evaluation",
+          "due": "2025-01-04"
+        },
+        {
+          "name": "Final report",
+          "due": "2025-01-05"
+        }
+      ]
+    },
+    {
+      "task_id": "task003",
+      "title": "MATH210 Problem Set 5",
+      "course": "MATH210",
+      "type": "homework",
+      "description": "Problems on eigenvalues and eigenvectors",
+      "due": "2024-12-25T17:00:00",
+      "priority": "medium",
+      "estimated_hours": 3,
+      "status": "not_started",
+      "completion_percentage": 0
+    },
+    {
+      "task_id": "task004",
+      "title": "CS220 Quiz Preparation",
+      "course": "CS220",
+      "type": "exam_prep",
+      "description": "Study chapters 5-7 on SQL joins and normalization",
+      "due": "2024-12-26T09:00:00",
+      "priority": "high",
+      "estimated_hours": 4,
+      "status": "in_progress",
+      "completion_percentage": 60
+    },
+    {
+      "task_id": "task005",
+      "title": "Read CS350 Research Paper",
+      "course": "CS350",
+      "type": "reading",
+      "description": "ResNet paper - Deep Residual Learning for Image Recognition",
+      "due": "2024-12-24T23:59:00",
+      "priority": "medium",
+      "estimated_hours": 2,
+      "status": "completed",
+      "completion_percentage": 100
+    },
+    {
+      "task_id": "task006",
+      "title": "CS301 Midterm Review",
+      "course": "CS301",
+      "type": "exam_prep",
+      "description": "Review all topics: arrays, linked lists, stacks, queues, trees",
+      "due": "2024-12-27T10:00:00",
+      "priority": "high",
+      "estimated_hours": 8,
+      "status": "not_started",
+      "completion_percentage": 0
+    }
+  ],
+  "metadata": {
+    "last_updated": "2024-12-21T10:00:00",
+    "total_tasks": 6,
+    "completed_tasks": 1,
+    "pending_tasks": 5
+  }
+}

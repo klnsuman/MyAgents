@@ -1,0 +1,72 @@
+{
+  "events": [
+    {
+      "event_id": "evt001",
+      "title": "CS301 Lecture",
+      "type": "class",
+      "start": {
+        "dateTime": "2024-12-23T09:00:00"
+      },
+      "end": {
+        "dateTime": "2024-12-23T10:30:00"
+      },
+      "location": "Engineering Building Room 201",
+      "recurring": "Monday, Wednesday, Friday"
+    },
+    {
+      "event_id": "evt002",
+      "title": "CS350 Lab",
+      "type": "class",
+      "start": {
+        "dateTime": "2024-12-23T14:00:00"
+      },
+      "end": {
+        "dateTime": "2024-12-23T16:00:00"
+      },
+      "location": "Computer Lab 3",
+      "recurring": "Monday, Wednesday"
+    },
+    {
+      "event_id": "evt003",
+      "title": "Study Group - Linear Algebra",
+      "type": "study_session",
+      "start": {
+        "dateTime": "2024-12-24T18:00:00"
+      },
+      "end": {
+        "dateTime": "2024-12-24T20:00:00"
+      },
+      "location": "Library Room 305",
+      "attendees": [
+        "Bob",
+        "Carol",
+        "David"
+      ]
+    },
+    {
+      "event_id": "evt004",
+      "title": "Office Hours - Dr. Chen",
+      "type": "office_hours",
+      "start": {
+        "dateTime": "2024-12-26T15:00:00"
+      },
+      "end": {
+        "dateTime": "2024-12-26T16:00:00"
+      },
+      "location": "CS Department Room 412"
+    },
+    {
+      "event_id": "evt005",
+      "title": "CS350 Midterm Exam",
+      "type": "exam",
+      "start": {
+        "dateTime": "2024-12-27T10:00:00"
+      },
+      "end": {
+        "dateTime": "2024-12-27T12:00:00"
+      },
+      "location": "Exam Hall A"
+    }
+  ],
+  "time_zone": "America/New_York"
+}
