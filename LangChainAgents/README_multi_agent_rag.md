@@ -6,9 +6,9 @@ Builds a production-style question-answering pipeline where three specialized AI
 
 ---
 
-## Why this matters in enterprise AI (Eli Lilly context)
+## Why this matters in enterprise AI
 
-In regulated industries like pharma, every AI decision must be explainable and auditable. This system addresses that directly:
+In regulated industries like pharma and life sciences, every AI decision must be explainable and auditable. This system addresses that directly:
 
 - **Full trace per run** — every prompt sent, every response received, every retrieval decision is logged
 - **Cost visibility** — token usage and API cost per agent call tracked in Langfuse
